@@ -1,4 +1,5 @@
 #FILES TO IGNORE
+.vscode/
 ignore
 RDL-#05.zip
 *DS_Store
